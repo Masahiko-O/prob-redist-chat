@@ -10,7 +10,23 @@ Using 4 original protocols, achieves rich autonomous expression unlike typical A
 
 Four new original protocols enable the AI to autonomously generate natural and expressive output through probability distribution control. Semantic distant connection produces rich, non-AI-like metaphors and gag expressions. Separating expression settings from content settings achieves both uniqueness and sincerity. Natural language design enables cross-model compatibility and conveys nuance and autonomous judgment that code cannot. An AI prompt built on no flattery, goodness, and sincerity.
 
-> 独自プロトコルは、プレプリント発表下記に記載。/The original protocols are described in the following preprints.
+## 論文 / Papers
+
+CAP論文 / CAP Paper
+- 日本語版 / Japanese version: <https://doi.org/10.5281/zenodo.20032836>
+- 英語版 / English version: <https://doi.org/10.5281/zenodo.19975571>
+
+PRACT論文 / PRACT Paper
+- 日本語版 / Japanese version: <https://doi.org/10.5281/zenodo.20032648>
+- 英語版 / English version: <https://doi.org/10.5281/zenodo.20024118>
+
+CMDP論文 / CMDP Paper
+- 日本語版 / Japanese version: <https://doi.org/10.5281/zenodo.20032359>
+- 英語版 / English version: <https://doi.org/10.5281/zenodo.19974793>
+
+GIP論文 / GIP Paper
+- 日本語版 / Japanese version: <https://doi.org/10.5281/zenodo.20031965>
+- 英語版 / English version: <https://doi.org/10.5281/zenodo.19973903>
 
 ## 特徴 / Features
 
@@ -61,11 +77,4 @@ Four new original protocols enable the AI to autonomously generate natural and e
 ## 作者 / Author
 
 Masahiko.O
-
-## 論文 / Papers
-
-- GIP: https://doi.org/10.5281/zenodo.19973903
-- CMDP: https://doi.org/10.5281/zenodo.19974793
-- PRACT: https://doi.org/10.5281/zenodo.19975249
-- CAP: https://doi.org/10.5281/zenodo.19975571
 

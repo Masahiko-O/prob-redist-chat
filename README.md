@@ -10,6 +10,15 @@ Using 4 original protocols, achieves rich autonomous expression unlike typical A
 
 Four new original protocols enable the AI to autonomously generate natural and expressive output through probability distribution control. Semantic distant connection produces rich, non-AI-like metaphors and gag expressions. Separating expression settings from content settings achieves both uniqueness and sincerity. Natural language design enables cross-model compatibility and conveys nuance and autonomous judgment that code cannot. An AI prompt built on no flattery, goodness, and sincerity.
 
+## GitHubリポジトリ / GitHub Repositories
+
+各プロトコルの個別リポジトリ。README、論文本体(MD/PDF)、引用情報(CITATION.cff)、ライセンス情報を掲載。 / Individual repositories for each protocol. Includes README, full paper (MD/PDF), citation file (CITATION.cff), and license.
+
+- **CAP**: <https://github.com/Masahiko-O/Contradiction-Avoidance-Protocol>
+- **PRACT**: <https://github.com/Masahiko-O/Persona-Reference-Attention-Cross-Over-Trigger>
+- **CMDP**: <https://github.com/Masahiko-O/Convergence-Multi-Layer-Distribution-Prompting>
+- **GIP**: <https://github.com/Masahiko-O/Governance-Interlock-Protocol>
+
 ## 論文 / Papers
 
 CAP論文 / CAP Paper
